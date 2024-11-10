@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/Rdooley8581/OneDrive - Conestoga College/gcMayhem/gcMayhem/BatSprint/Content/audio/gameSong.mp3</File>
+    <File>C:/Users/Rdooley8581/OneDrive - Conestoga College/gcMayhem/gcMayhem/BatSprint/Content/audio/hitSound.wav</File>
+    <File>C:/Users/Rdooley8581/OneDrive - Conestoga College/gcMayhem/gcMayhem/BatSprint/Content/audio/themeSong.mp3</File>
+    <File>C:/Users/Rdooley8581/OneDrive - Conestoga College/gcMayhem/gcMayhem/BatSprint/Content/fonts/HighlightFont.spritefont</File>
+    <File>C:/Users/Rdooley8581/OneDrive - Conestoga College/gcMayhem/gcMayhem/BatSprint/Content/fonts/RegularFont.spritefont</File>
+    <File>C:/Users/Rdooley8581/OneDrive - Conestoga College/gcMayhem/gcMayhem/BatSprint/Content/images/batarangSprite.png</File>
+    <File>C:/Users/Rdooley8581/OneDrive - Conestoga College/gcMayhem/gcMayhem/BatSprint/Content/images/batSprite.png</File>
+    <File>C:/Users/Rdooley8581/OneDrive - Conestoga College/gcMayhem/gcMayhem/BatSprint/Content/images/box.gif</File>
+    <File>C:/Users/Rdooley8581/OneDrive - Conestoga College/gcMayhem/gcMayhem/BatSprint/Content/images/bruteSprite.PNG</File>
+    <File>C:/Users/Rdooley8581/OneDrive - Conestoga College/gcMayhem/gcMayhem/BatSprint/Content/images/bulletSprite.png</File>
+    <File>C:/Users/Rdooley8581/OneDrive - Conestoga College/gcMayhem/gcMayhem/BatSprint/Content/images/fiveBox.png</File>
+    <File>C:/Users/Rdooley8581/OneDrive - Conestoga College/gcMayhem/gcMayhem/BatSprint/Content/images/gothamCity.png</File>
+    <File>C:/Users/Rdooley8581/OneDrive - Conestoga College/gcMayhem/gcMayhem/BatSprint/Content/images/gothamHalf.png</File>
+    <File>C:/Users/Rdooley8581/OneDrive - Conestoga College/gcMayhem/gcMayhem/BatSprint/Content/images/heartTex.png</File>
+    <File>C:/Users/Rdooley8581/OneDrive - Conestoga College/gcMayhem/gcMayhem/BatSprint/Content/images/helpScene.png</File>
+    <File>C:/Users/Rdooley8581/OneDrive - Conestoga College/gcMayhem/gcMayhem/BatSprint/Content/images/helpScene2.png</File>
+    <File>C:/Users/Rdooley8581/OneDrive - Conestoga College/gcMayhem/gcMayhem/BatSprint/Content/images/rooftop.jpg</File>
+    <File>C:/Users/Rdooley8581/OneDrive - Conestoga College/gcMayhem/gcMayhem/BatSprint/Content/images/stalkSprite.png</File>
+    <File>C:/Users/Rdooley8581/OneDrive - Conestoga College/gcMayhem/gcMayhem/BatSprint/Content/images/thugSprite.PNG</File>
+    <File>C:/Users/Rdooley8581/OneDrive - Conestoga College/gcMayhem/gcMayhem/BatSprint/Content/images/tripBox.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

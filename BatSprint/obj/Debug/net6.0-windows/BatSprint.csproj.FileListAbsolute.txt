@@ -1,0 +1,350 @@
+C:\Users\Rdooley8581\OneDrive - Conestoga College\BatSprint\BatSprint\bin\Debug\net6.0-windows\BatSprint.exe
+C:\Users\Rdooley8581\OneDrive - Conestoga College\BatSprint\BatSprint\bin\Debug\net6.0-windows\BatSprint.deps.json
+C:\Users\Rdooley8581\OneDrive - Conestoga College\BatSprint\BatSprint\bin\Debug\net6.0-windows\BatSprint.runtimeconfig.json
+C:\Users\Rdooley8581\OneDrive - Conestoga College\BatSprint\BatSprint\bin\Debug\net6.0-windows\BatSprint.dll
+C:\Users\Rdooley8581\OneDrive - Conestoga College\BatSprint\BatSprint\bin\Debug\net6.0-windows\BatSprint.pdb
+C:\Users\Rdooley8581\OneDrive - Conestoga College\BatSprint\BatSprint\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.dll
+C:\Users\Rdooley8581\OneDrive - Conestoga College\BatSprint\BatSprint\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Rdooley8581\OneDrive - Conestoga College\BatSprint\BatSprint\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Rdooley8581\OneDrive - Conestoga College\BatSprint\BatSprint\bin\Debug\net6.0-windows\MonoGame.Framework.dll
+C:\Users\Rdooley8581\OneDrive - Conestoga College\BatSprint\BatSprint\bin\Debug\net6.0-windows\SharpDX.dll
+C:\Users\Rdooley8581\OneDrive - Conestoga College\BatSprint\BatSprint\bin\Debug\net6.0-windows\SharpDX.Direct2D1.dll
+C:\Users\Rdooley8581\OneDrive - Conestoga College\BatSprint\BatSprint\bin\Debug\net6.0-windows\SharpDX.Direct3D11.dll
+C:\Users\Rdooley8581\OneDrive - Conestoga College\BatSprint\BatSprint\bin\Debug\net6.0-windows\SharpDX.Direct3D9.dll
+C:\Users\Rdooley8581\OneDrive - Conestoga College\BatSprint\BatSprint\bin\Debug\net6.0-windows\SharpDX.DXGI.dll
+C:\Users\Rdooley8581\OneDrive - Conestoga College\BatSprint\BatSprint\bin\Debug\net6.0-windows\SharpDX.Mathematics.dll
+C:\Users\Rdooley8581\OneDrive - Conestoga College\BatSprint\BatSprint\bin\Debug\net6.0-windows\SharpDX.MediaFoundation.dll
+C:\Users\Rdooley8581\OneDrive - Conestoga College\BatSprint\BatSprint\bin\Debug\net6.0-windows\SharpDX.XAudio2.dll
+C:\Users\Rdooley8581\OneDrive - Conestoga College\BatSprint\BatSprint\bin\Debug\net6.0-windows\SharpDX.XInput.dll
+C:\Users\Rdooley8581\OneDrive - Conestoga College\BatSprint\BatSprint\bin\Debug\net6.0-windows\runtimes\debian-x64\native\libuv.so
+C:\Users\Rdooley8581\OneDrive - Conestoga College\BatSprint\BatSprint\bin\Debug\net6.0-windows\runtimes\fedora-x64\native\libuv.so
+C:\Users\Rdooley8581\OneDrive - Conestoga College\BatSprint\BatSprint\bin\Debug\net6.0-windows\runtimes\opensuse-x64\native\libuv.so
+C:\Users\Rdooley8581\OneDrive - Conestoga College\BatSprint\BatSprint\bin\Debug\net6.0-windows\runtimes\osx\native\libuv.dylib
+C:\Users\Rdooley8581\OneDrive - Conestoga College\BatSprint\BatSprint\bin\Debug\net6.0-windows\runtimes\rhel-x64\native\libuv.so
+C:\Users\Rdooley8581\OneDrive - Conestoga College\BatSprint\BatSprint\bin\Debug\net6.0-windows\runtimes\win7-arm\native\libuv.dll
+C:\Users\Rdooley8581\OneDrive - Conestoga College\BatSprint\BatSprint\bin\Debug\net6.0-windows\runtimes\win7-x64\native\libuv.dll
+C:\Users\Rdooley8581\OneDrive - Conestoga College\BatSprint\BatSprint\bin\Debug\net6.0-windows\runtimes\win7-x86\native\libuv.dll
+C:\Users\Rdooley8581\OneDrive - Conestoga College\BatSprint\BatSprint\obj\Debug\net6.0-windows\BatSprint.csproj.AssemblyReference.cache
+C:\Users\Rdooley8581\OneDrive - Conestoga College\BatSprint\BatSprint\obj\Debug\net6.0-windows\BatSprint.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rdooley8581\OneDrive - Conestoga College\BatSprint\BatSprint\obj\Debug\net6.0-windows\BatSprint.AssemblyInfoInputs.cache
+C:\Users\Rdooley8581\OneDrive - Conestoga College\BatSprint\BatSprint\obj\Debug\net6.0-windows\BatSprint.AssemblyInfo.cs
+C:\Users\Rdooley8581\OneDrive - Conestoga College\BatSprint\BatSprint\obj\Debug\net6.0-windows\BatSprint.csproj.CoreCompileInputs.cache
+C:\Users\Rdooley8581\OneDrive - Conestoga College\BatSprint\BatSprint\obj\Debug\net6.0-windows\BatSprint.csproj.CopyComplete
+C:\Users\Rdooley8581\OneDrive - Conestoga College\BatSprint\BatSprint\obj\Debug\net6.0-windows\BatSprint.dll
+C:\Users\Rdooley8581\OneDrive - Conestoga College\BatSprint\BatSprint\obj\Debug\net6.0-windows\refint\BatSprint.dll
+C:\Users\Rdooley8581\OneDrive - Conestoga College\BatSprint\BatSprint\obj\Debug\net6.0-windows\BatSprint.pdb
+C:\Users\Rdooley8581\OneDrive - Conestoga College\BatSprint\BatSprint\obj\Debug\net6.0-windows\BatSprint.genruntimeconfig.cache
+C:\Users\Rdooley8581\OneDrive - Conestoga College\BatSprint\BatSprint\obj\Debug\net6.0-windows\ref\BatSprint.dll
+C:\Users\Rdooley8581\OneDrive - Conestoga College\BatSprint\BatSprint\bin\Debug\net6.0-windows\Content\fonts\HighlightFont.xnb
+C:\Users\Rdooley8581\OneDrive - Conestoga College\BatSprint\BatSprint\bin\Debug\net6.0-windows\Content\fonts\RegularFont.xnb
+C:\Users\Rdooley8581\OneDrive - Conestoga College\BatSprint\BatSprint\bin\Debug\net6.0-windows\Content\images\helpScene2.xnb
+C:\Users\Rdooley8581\OneDrive - Conestoga College\BatSprint\BatSprint\bin\Debug\net6.0-windows\Content\images\gothamCity.xnb
+C:\Users\Rdooley8581\OneDrive - Conestoga College\BatSprint\BatSprint\bin\Debug\net6.0-windows\Content\audio\themeSong.wma
+C:\Users\Rdooley8581\OneDrive - Conestoga College\BatSprint\BatSprint\bin\Debug\net6.0-windows\Content\audio\themeSong.xnb
+C:\Users\Rdooley8581\OneDrive - Conestoga College\BatSprint\BatSprint\bin\Debug\net6.0-windows\Content\images\batRunSprite1.xnb
+C:\Users\Rdooley8581\OneDrive - Conestoga College\BatSprint\BatSprint\bin\Debug\net6.0-windows\Content\images\batman.xnb
+C:\Users\Rdooley8581\OneDrive - Conestoga College\BatSprint\BatSprint\bin\Debug\net6.0-windows\Content\images\batStandSprite.xnb
+C:\Users\Rdooley8581\OneDrive - Conestoga College\GAME\BatSprint\BatSprint\obj\Debug\net6.0-windows\BatSprint.csproj.AssemblyReference.cache
+C:\Users\Rdooley8581\OneDrive - Conestoga College\GAME\BatSprint\BatSprint\obj\Debug\net6.0-windows\BatSprint.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rdooley8581\OneDrive - Conestoga College\GAME\BatSprint\BatSprint\obj\Debug\net6.0-windows\BatSprint.AssemblyInfoInputs.cache
+C:\Users\Rdooley8581\OneDrive - Conestoga College\GAME\BatSprint\BatSprint\obj\Debug\net6.0-windows\BatSprint.AssemblyInfo.cs
+C:\Users\Rdooley8581\OneDrive - Conestoga College\GAME\BatSprint\BatSprint\obj\Debug\net6.0-windows\BatSprint.csproj.CoreCompileInputs.cache
+C:\Users\Rdooley8581\OneDrive - Conestoga College\GAME\BatSprint\BatSprint\obj\Debug\net6.0-windows\BatSprint.dll
+C:\Users\Rdooley8581\OneDrive - Conestoga College\GAME\BatSprint\BatSprint\obj\Debug\net6.0-windows\refint\BatSprint.dll
+C:\Users\Rdooley8581\OneDrive - Conestoga College\GAME\BatSprint\BatSprint\obj\Debug\net6.0-windows\BatSprint.pdb
+C:\Users\Rdooley8581\OneDrive - Conestoga College\GAME\BatSprint\BatSprint\bin\Debug\net6.0-windows\Content\audio\themeSong.wma
+C:\Users\Rdooley8581\OneDrive - Conestoga College\GAME\BatSprint\BatSprint\bin\Debug\net6.0-windows\Content\audio\themeSong.xnb
+C:\Users\Rdooley8581\OneDrive - Conestoga College\GAME\BatSprint\BatSprint\bin\Debug\net6.0-windows\Content\fonts\HighlightFont.xnb
+C:\Users\Rdooley8581\OneDrive - Conestoga College\GAME\BatSprint\BatSprint\bin\Debug\net6.0-windows\Content\fonts\RegularFont.xnb
+C:\Users\Rdooley8581\OneDrive - Conestoga College\GAME\BatSprint\BatSprint\bin\Debug\net6.0-windows\Content\images\gothamCity.xnb
+C:\Users\Rdooley8581\OneDrive - Conestoga College\GAME\BatSprint\BatSprint\bin\Debug\net6.0-windows\Content\images\helpScene2.xnb
+C:\Users\Rdooley8581\OneDrive - Conestoga College\GAME\BatSprint\BatSprint\bin\Debug\net6.0-windows\BatSprint.exe
+C:\Users\Rdooley8581\OneDrive - Conestoga College\GAME\BatSprint\BatSprint\bin\Debug\net6.0-windows\BatSprint.deps.json
+C:\Users\Rdooley8581\OneDrive - Conestoga College\GAME\BatSprint\BatSprint\bin\Debug\net6.0-windows\BatSprint.runtimeconfig.json
+C:\Users\Rdooley8581\OneDrive - Conestoga College\GAME\BatSprint\BatSprint\bin\Debug\net6.0-windows\BatSprint.dll
+C:\Users\Rdooley8581\OneDrive - Conestoga College\GAME\BatSprint\BatSprint\bin\Debug\net6.0-windows\BatSprint.pdb
+C:\Users\Rdooley8581\OneDrive - Conestoga College\GAME\BatSprint\BatSprint\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.dll
+C:\Users\Rdooley8581\OneDrive - Conestoga College\GAME\BatSprint\BatSprint\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Rdooley8581\OneDrive - Conestoga College\GAME\BatSprint\BatSprint\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Rdooley8581\OneDrive - Conestoga College\GAME\BatSprint\BatSprint\bin\Debug\net6.0-windows\MonoGame.Framework.dll
+C:\Users\Rdooley8581\OneDrive - Conestoga College\GAME\BatSprint\BatSprint\bin\Debug\net6.0-windows\SharpDX.dll
+C:\Users\Rdooley8581\OneDrive - Conestoga College\GAME\BatSprint\BatSprint\bin\Debug\net6.0-windows\SharpDX.Direct2D1.dll
+C:\Users\Rdooley8581\OneDrive - Conestoga College\GAME\BatSprint\BatSprint\bin\Debug\net6.0-windows\SharpDX.Direct3D11.dll
+C:\Users\Rdooley8581\OneDrive - Conestoga College\GAME\BatSprint\BatSprint\bin\Debug\net6.0-windows\SharpDX.Direct3D9.dll
+C:\Users\Rdooley8581\OneDrive - Conestoga College\GAME\BatSprint\BatSprint\bin\Debug\net6.0-windows\SharpDX.DXGI.dll
+C:\Users\Rdooley8581\OneDrive - Conestoga College\GAME\BatSprint\BatSprint\bin\Debug\net6.0-windows\SharpDX.Mathematics.dll
+C:\Users\Rdooley8581\OneDrive - Conestoga College\GAME\BatSprint\BatSprint\bin\Debug\net6.0-windows\SharpDX.MediaFoundation.dll
+C:\Users\Rdooley8581\OneDrive - Conestoga College\GAME\BatSprint\BatSprint\bin\Debug\net6.0-windows\SharpDX.XAudio2.dll
+C:\Users\Rdooley8581\OneDrive - Conestoga College\GAME\BatSprint\BatSprint\bin\Debug\net6.0-windows\SharpDX.XInput.dll
+C:\Users\Rdooley8581\OneDrive - Conestoga College\GAME\BatSprint\BatSprint\bin\Debug\net6.0-windows\runtimes\debian-x64\native\libuv.so
+C:\Users\Rdooley8581\OneDrive - Conestoga College\GAME\BatSprint\BatSprint\bin\Debug\net6.0-windows\runtimes\fedora-x64\native\libuv.so
+C:\Users\Rdooley8581\OneDrive - Conestoga College\GAME\BatSprint\BatSprint\bin\Debug\net6.0-windows\runtimes\opensuse-x64\native\libuv.so
+C:\Users\Rdooley8581\OneDrive - Conestoga College\GAME\BatSprint\BatSprint\bin\Debug\net6.0-windows\runtimes\osx\native\libuv.dylib
+C:\Users\Rdooley8581\OneDrive - Conestoga College\GAME\BatSprint\BatSprint\bin\Debug\net6.0-windows\runtimes\rhel-x64\native\libuv.so
+C:\Users\Rdooley8581\OneDrive - Conestoga College\GAME\BatSprint\BatSprint\bin\Debug\net6.0-windows\runtimes\win7-arm\native\libuv.dll
+C:\Users\Rdooley8581\OneDrive - Conestoga College\GAME\BatSprint\BatSprint\bin\Debug\net6.0-windows\runtimes\win7-x64\native\libuv.dll
+C:\Users\Rdooley8581\OneDrive - Conestoga College\GAME\BatSprint\BatSprint\bin\Debug\net6.0-windows\runtimes\win7-x86\native\libuv.dll
+C:\Users\Rdooley8581\OneDrive - Conestoga College\GAME\BatSprint\BatSprint\obj\Debug\net6.0-windows\BatSprint.csproj.CopyComplete
+C:\Users\Rdooley8581\OneDrive - Conestoga College\GAME\BatSprint\BatSprint\obj\Debug\net6.0-windows\BatSprint.genruntimeconfig.cache
+C:\Users\Rdooley8581\OneDrive - Conestoga College\GAME\BatSprint\BatSprint\obj\Debug\net6.0-windows\ref\BatSprint.dll
+C:\Users\Rdooley8581\OneDrive - Conestoga College\GAME\BatSprint\BatSprint\bin\Debug\net6.0-windows\Content\images\batSprite.xnb
+C:\Users\Rdooley8581\OneDrive - Conestoga College\GAME\BatSprint\BatSprint\bin\Debug\net6.0-windows\Content\images\coin.xnb
+C:\Users\Rdooley8581\OneDrive - Conestoga College\GAME\BatSprint\BatSprint\bin\Debug\net6.0-windows\Content\images\batarangSprite.xnb
+C:\Users\Rdooley8581\OneDrive - Conestoga College\GAME\BatSprint\BatSprint\bin\Debug\net6.0-windows\Content\images\batman.xnb
+C:\Users\Rdooley8581\OneDrive - Conestoga College\GAME\BatSprint\BatSprint\bin\Debug\net6.0-windows\Content\images\batRunSprite1.xnb
+C:\Users\Rdooley8581\OneDrive - Conestoga College\GAME\BatSprint\BatSprint\bin\Debug\net6.0-windows\Content\images\rooftop.xnb
+C:\Users\Rdooley8581\OneDrive - Conestoga College\GAME\BatSprint\BatSprint\bin\Debug\net6.0-windows\Content\images\enemySprite.xnb
+C:\Users\Rdooley8581\OneDrive - Conestoga College\GAME\BatSprint\BatSprint\bin\Debug\net6.0-windows\Content\images\enemySprite2.xnb
+C:\Users\Rdooley8581\OneDrive - Conestoga College\gcMayhem\BatSprint\bin\Debug\net6.0-windows\Content\images\batman.xnb
+C:\Users\Rdooley8581\OneDrive - Conestoga College\gcMayhem\BatSprint\bin\Debug\net6.0-windows\Content\images\batRunSprite1.xnb
+C:\Users\Rdooley8581\OneDrive - Conestoga College\gcMayhem\BatSprint\bin\Debug\net6.0-windows\Content\images\coin.xnb
+C:\Users\Rdooley8581\OneDrive - Conestoga College\gcMayhem\BatSprint\bin\Debug\net6.0-windows\Content\audio\themeSong.wma
+C:\Users\Rdooley8581\OneDrive - Conestoga College\gcMayhem\BatSprint\bin\Debug\net6.0-windows\Content\audio\themeSong.xnb
+C:\Users\Rdooley8581\OneDrive - Conestoga College\gcMayhem\BatSprint\bin\Debug\net6.0-windows\Content\fonts\HighlightFont.xnb
+C:\Users\Rdooley8581\OneDrive - Conestoga College\gcMayhem\BatSprint\bin\Debug\net6.0-windows\Content\fonts\RegularFont.xnb
+C:\Users\Rdooley8581\OneDrive - Conestoga College\gcMayhem\BatSprint\bin\Debug\net6.0-windows\Content\images\batarangSprite.xnb
+C:\Users\Rdooley8581\OneDrive - Conestoga College\gcMayhem\BatSprint\bin\Debug\net6.0-windows\Content\images\batSprite.xnb
+C:\Users\Rdooley8581\OneDrive - Conestoga College\gcMayhem\BatSprint\bin\Debug\net6.0-windows\Content\images\enemySprite.xnb
+C:\Users\Rdooley8581\OneDrive - Conestoga College\gcMayhem\BatSprint\bin\Debug\net6.0-windows\Content\images\enemySprite2.xnb
+C:\Users\Rdooley8581\OneDrive - Conestoga College\gcMayhem\BatSprint\bin\Debug\net6.0-windows\Content\images\gothamCity.xnb
+C:\Users\Rdooley8581\OneDrive - Conestoga College\gcMayhem\BatSprint\bin\Debug\net6.0-windows\Content\images\helpScene2.xnb
+C:\Users\Rdooley8581\OneDrive - Conestoga College\gcMayhem\BatSprint\bin\Debug\net6.0-windows\Content\images\rooftop.xnb
+C:\Users\Rdooley8581\OneDrive - Conestoga College\gcMayhem\BatSprint\bin\Debug\net6.0-windows\BatSprint.exe
+C:\Users\Rdooley8581\OneDrive - Conestoga College\gcMayhem\BatSprint\bin\Debug\net6.0-windows\BatSprint.deps.json
+C:\Users\Rdooley8581\OneDrive - Conestoga College\gcMayhem\BatSprint\bin\Debug\net6.0-windows\BatSprint.runtimeconfig.json
+C:\Users\Rdooley8581\OneDrive - Conestoga College\gcMayhem\BatSprint\bin\Debug\net6.0-windows\BatSprint.dll
+C:\Users\Rdooley8581\OneDrive - Conestoga College\gcMayhem\BatSprint\bin\Debug\net6.0-windows\BatSprint.pdb
+C:\Users\Rdooley8581\OneDrive - Conestoga College\gcMayhem\BatSprint\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.dll
+C:\Users\Rdooley8581\OneDrive - Conestoga College\gcMayhem\BatSprint\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Rdooley8581\OneDrive - Conestoga College\gcMayhem\BatSprint\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Rdooley8581\OneDrive - Conestoga College\gcMayhem\BatSprint\bin\Debug\net6.0-windows\MonoGame.Framework.dll
+C:\Users\Rdooley8581\OneDrive - Conestoga College\gcMayhem\BatSprint\bin\Debug\net6.0-windows\SharpDX.dll
+C:\Users\Rdooley8581\OneDrive - Conestoga College\gcMayhem\BatSprint\bin\Debug\net6.0-windows\SharpDX.Direct2D1.dll
+C:\Users\Rdooley8581\OneDrive - Conestoga College\gcMayhem\BatSprint\bin\Debug\net6.0-windows\SharpDX.Direct3D11.dll
+C:\Users\Rdooley8581\OneDrive - Conestoga College\gcMayhem\BatSprint\bin\Debug\net6.0-windows\SharpDX.Direct3D9.dll
+C:\Users\Rdooley8581\OneDrive - Conestoga College\gcMayhem\BatSprint\bin\Debug\net6.0-windows\SharpDX.DXGI.dll
+C:\Users\Rdooley8581\OneDrive - Conestoga College\gcMayhem\BatSprint\bin\Debug\net6.0-windows\SharpDX.Mathematics.dll
+C:\Users\Rdooley8581\OneDrive - Conestoga College\gcMayhem\BatSprint\bin\Debug\net6.0-windows\SharpDX.MediaFoundation.dll
+C:\Users\Rdooley8581\OneDrive - Conestoga College\gcMayhem\BatSprint\bin\Debug\net6.0-windows\SharpDX.XAudio2.dll
+C:\Users\Rdooley8581\OneDrive - Conestoga College\gcMayhem\BatSprint\bin\Debug\net6.0-windows\SharpDX.XInput.dll
+C:\Users\Rdooley8581\OneDrive - Conestoga College\gcMayhem\BatSprint\bin\Debug\net6.0-windows\runtimes\debian-x64\native\libuv.so
+C:\Users\Rdooley8581\OneDrive - Conestoga College\gcMayhem\BatSprint\bin\Debug\net6.0-windows\runtimes\fedora-x64\native\libuv.so
+C:\Users\Rdooley8581\OneDrive - Conestoga College\gcMayhem\BatSprint\bin\Debug\net6.0-windows\runtimes\opensuse-x64\native\libuv.so
+C:\Users\Rdooley8581\OneDrive - Conestoga College\gcMayhem\BatSprint\bin\Debug\net6.0-windows\runtimes\osx\native\libuv.dylib
+C:\Users\Rdooley8581\OneDrive - Conestoga College\gcMayhem\BatSprint\bin\Debug\net6.0-windows\runtimes\rhel-x64\native\libuv.so
+C:\Users\Rdooley8581\OneDrive - Conestoga College\gcMayhem\BatSprint\bin\Debug\net6.0-windows\runtimes\win7-arm\native\libuv.dll
+C:\Users\Rdooley8581\OneDrive - Conestoga College\gcMayhem\BatSprint\bin\Debug\net6.0-windows\runtimes\win7-x64\native\libuv.dll
+C:\Users\Rdooley8581\OneDrive - Conestoga College\gcMayhem\BatSprint\bin\Debug\net6.0-windows\runtimes\win7-x86\native\libuv.dll
+C:\Users\Rdooley8581\OneDrive - Conestoga College\gcMayhem\BatSprint\obj\Debug\net6.0-windows\BatSprint.csproj.AssemblyReference.cache
+C:\Users\Rdooley8581\OneDrive - Conestoga College\gcMayhem\BatSprint\obj\Debug\net6.0-windows\BatSprint.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rdooley8581\OneDrive - Conestoga College\gcMayhem\BatSprint\obj\Debug\net6.0-windows\BatSprint.AssemblyInfoInputs.cache
+C:\Users\Rdooley8581\OneDrive - Conestoga College\gcMayhem\BatSprint\obj\Debug\net6.0-windows\BatSprint.AssemblyInfo.cs
+C:\Users\Rdooley8581\OneDrive - Conestoga College\gcMayhem\BatSprint\obj\Debug\net6.0-windows\BatSprint.csproj.CoreCompileInputs.cache
+C:\Users\Rdooley8581\OneDrive - Conestoga College\gcMayhem\BatSprint\obj\Debug\net6.0-windows\BatSprint.csproj.CopyComplete
+C:\Users\Rdooley8581\OneDrive - Conestoga College\gcMayhem\BatSprint\obj\Debug\net6.0-windows\BatSprint.dll
+C:\Users\Rdooley8581\OneDrive - Conestoga College\gcMayhem\BatSprint\obj\Debug\net6.0-windows\refint\BatSprint.dll
+C:\Users\Rdooley8581\OneDrive - Conestoga College\gcMayhem\BatSprint\obj\Debug\net6.0-windows\BatSprint.pdb
+C:\Users\Rdooley8581\OneDrive - Conestoga College\gcMayhem\BatSprint\obj\Debug\net6.0-windows\BatSprint.genruntimeconfig.cache
+C:\Users\Rdooley8581\OneDrive - Conestoga College\gcMayhem\BatSprint\obj\Debug\net6.0-windows\ref\BatSprint.dll
+C:\Users\Rdooley8581\OneDrive - Conestoga College\gcMayhem\BatSprint\bin\Debug\net6.0-windows\Content\images\thugSprite.xnb
+C:\Users\Rdooley8581\OneDrive - Conestoga College\gcMayhem\BatSprint\bin\Debug\net6.0-windows\Content\audio\hitSound.xnb
+C:\Users\Rdooley8581\OneDrive - Conestoga College\gcMayhem\BatSprint\bin\Debug\net6.0-windows\Content\audio\gameSong.wma
+C:\Users\Rdooley8581\OneDrive - Conestoga College\gcMayhem\BatSprint\bin\Debug\net6.0-windows\Content\audio\gameSong.xnb
+C:\Users\Rdooley8581\OneDrive - Conestoga College\gcMayhem\BatSprint\bin\Debug\net6.0-windows\Content\images\box.xnb
+C:\Users\Rdooley8581\OneDrive - Conestoga College\gcMayhem\BatSprint\bin\Debug\net6.0-windows\Content\audio\hitSound.wma
+C:\Users\Rdooley8581\OneDrive - Conestoga College\gcMayhem\BatSprint\bin\Debug\net6.0-windows\Content\images\stalkSprite.xnb
+C:\Users\Rdooley8581\OneDrive - Conestoga College\gcMayhem\BatSprint\bin\Debug\net6.0-windows\Content\images\bulletSprite.xnb
+C:\Users\Rdooley8581\OneDrive - Conestoga College\COPYgcMayhem\BatSprint\bin\Debug\net6.0-windows\Content\audio\hitSound.wma
+C:\Users\Rdooley8581\OneDrive - Conestoga College\COPYgcMayhem\BatSprint\bin\Debug\net6.0-windows\Content\images\batman.xnb
+C:\Users\Rdooley8581\OneDrive - Conestoga College\COPYgcMayhem\BatSprint\bin\Debug\net6.0-windows\Content\images\batRunSprite1.xnb
+C:\Users\Rdooley8581\OneDrive - Conestoga College\COPYgcMayhem\BatSprint\bin\Debug\net6.0-windows\Content\images\coin.xnb
+C:\Users\Rdooley8581\OneDrive - Conestoga College\COPYgcMayhem\BatSprint\bin\Debug\net6.0-windows\Content\images\enemySprite.xnb
+C:\Users\Rdooley8581\OneDrive - Conestoga College\COPYgcMayhem\BatSprint\bin\Debug\net6.0-windows\Content\images\enemySprite2.xnb
+C:\Users\Rdooley8581\OneDrive - Conestoga College\COPYgcMayhem\BatSprint\bin\Debug\net6.0-windows\Content\audio\gameSong.wma
+C:\Users\Rdooley8581\OneDrive - Conestoga College\COPYgcMayhem\BatSprint\bin\Debug\net6.0-windows\Content\audio\gameSong.xnb
+C:\Users\Rdooley8581\OneDrive - Conestoga College\COPYgcMayhem\BatSprint\bin\Debug\net6.0-windows\Content\audio\hitSound.xnb
+C:\Users\Rdooley8581\OneDrive - Conestoga College\COPYgcMayhem\BatSprint\bin\Debug\net6.0-windows\Content\audio\themeSong.wma
+C:\Users\Rdooley8581\OneDrive - Conestoga College\COPYgcMayhem\BatSprint\bin\Debug\net6.0-windows\Content\audio\themeSong.xnb
+C:\Users\Rdooley8581\OneDrive - Conestoga College\COPYgcMayhem\BatSprint\bin\Debug\net6.0-windows\Content\fonts\HighlightFont.xnb
+C:\Users\Rdooley8581\OneDrive - Conestoga College\COPYgcMayhem\BatSprint\bin\Debug\net6.0-windows\Content\fonts\RegularFont.xnb
+C:\Users\Rdooley8581\OneDrive - Conestoga College\COPYgcMayhem\BatSprint\bin\Debug\net6.0-windows\Content\images\batarangSprite.xnb
+C:\Users\Rdooley8581\OneDrive - Conestoga College\COPYgcMayhem\BatSprint\bin\Debug\net6.0-windows\Content\images\batSprite.xnb
+C:\Users\Rdooley8581\OneDrive - Conestoga College\COPYgcMayhem\BatSprint\bin\Debug\net6.0-windows\Content\images\box.xnb
+C:\Users\Rdooley8581\OneDrive - Conestoga College\COPYgcMayhem\BatSprint\bin\Debug\net6.0-windows\Content\images\bulletSprite.xnb
+C:\Users\Rdooley8581\OneDrive - Conestoga College\COPYgcMayhem\BatSprint\bin\Debug\net6.0-windows\Content\images\gothamCity.xnb
+C:\Users\Rdooley8581\OneDrive - Conestoga College\COPYgcMayhem\BatSprint\bin\Debug\net6.0-windows\Content\images\helpScene2.xnb
+C:\Users\Rdooley8581\OneDrive - Conestoga College\COPYgcMayhem\BatSprint\bin\Debug\net6.0-windows\Content\images\rooftop.xnb
+C:\Users\Rdooley8581\OneDrive - Conestoga College\COPYgcMayhem\BatSprint\bin\Debug\net6.0-windows\Content\images\stalkSprite.xnb
+C:\Users\Rdooley8581\OneDrive - Conestoga College\COPYgcMayhem\BatSprint\bin\Debug\net6.0-windows\Content\images\thugSprite.xnb
+C:\Users\Rdooley8581\OneDrive - Conestoga College\COPYgcMayhem\BatSprint\bin\Debug\net6.0-windows\BatSprint.exe
+C:\Users\Rdooley8581\OneDrive - Conestoga College\COPYgcMayhem\BatSprint\bin\Debug\net6.0-windows\BatSprint.deps.json
+C:\Users\Rdooley8581\OneDrive - Conestoga College\COPYgcMayhem\BatSprint\bin\Debug\net6.0-windows\BatSprint.runtimeconfig.json
+C:\Users\Rdooley8581\OneDrive - Conestoga College\COPYgcMayhem\BatSprint\bin\Debug\net6.0-windows\BatSprint.dll
+C:\Users\Rdooley8581\OneDrive - Conestoga College\COPYgcMayhem\BatSprint\bin\Debug\net6.0-windows\BatSprint.pdb
+C:\Users\Rdooley8581\OneDrive - Conestoga College\COPYgcMayhem\BatSprint\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.dll
+C:\Users\Rdooley8581\OneDrive - Conestoga College\COPYgcMayhem\BatSprint\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Rdooley8581\OneDrive - Conestoga College\COPYgcMayhem\BatSprint\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Rdooley8581\OneDrive - Conestoga College\COPYgcMayhem\BatSprint\bin\Debug\net6.0-windows\MonoGame.Framework.dll
+C:\Users\Rdooley8581\OneDrive - Conestoga College\COPYgcMayhem\BatSprint\bin\Debug\net6.0-windows\SharpDX.dll
+C:\Users\Rdooley8581\OneDrive - Conestoga College\COPYgcMayhem\BatSprint\bin\Debug\net6.0-windows\SharpDX.Direct2D1.dll
+C:\Users\Rdooley8581\OneDrive - Conestoga College\COPYgcMayhem\BatSprint\bin\Debug\net6.0-windows\SharpDX.Direct3D11.dll
+C:\Users\Rdooley8581\OneDrive - Conestoga College\COPYgcMayhem\BatSprint\bin\Debug\net6.0-windows\SharpDX.Direct3D9.dll
+C:\Users\Rdooley8581\OneDrive - Conestoga College\COPYgcMayhem\BatSprint\bin\Debug\net6.0-windows\SharpDX.DXGI.dll
+C:\Users\Rdooley8581\OneDrive - Conestoga College\COPYgcMayhem\BatSprint\bin\Debug\net6.0-windows\SharpDX.Mathematics.dll
+C:\Users\Rdooley8581\OneDrive - Conestoga College\COPYgcMayhem\BatSprint\bin\Debug\net6.0-windows\SharpDX.MediaFoundation.dll
+C:\Users\Rdooley8581\OneDrive - Conestoga College\COPYgcMayhem\BatSprint\bin\Debug\net6.0-windows\SharpDX.XAudio2.dll
+C:\Users\Rdooley8581\OneDrive - Conestoga College\COPYgcMayhem\BatSprint\bin\Debug\net6.0-windows\SharpDX.XInput.dll
+C:\Users\Rdooley8581\OneDrive - Conestoga College\COPYgcMayhem\BatSprint\bin\Debug\net6.0-windows\runtimes\debian-x64\native\libuv.so
+C:\Users\Rdooley8581\OneDrive - Conestoga College\COPYgcMayhem\BatSprint\bin\Debug\net6.0-windows\runtimes\fedora-x64\native\libuv.so
+C:\Users\Rdooley8581\OneDrive - Conestoga College\COPYgcMayhem\BatSprint\bin\Debug\net6.0-windows\runtimes\opensuse-x64\native\libuv.so
+C:\Users\Rdooley8581\OneDrive - Conestoga College\COPYgcMayhem\BatSprint\bin\Debug\net6.0-windows\runtimes\osx\native\libuv.dylib
+C:\Users\Rdooley8581\OneDrive - Conestoga College\COPYgcMayhem\BatSprint\bin\Debug\net6.0-windows\runtimes\rhel-x64\native\libuv.so
+C:\Users\Rdooley8581\OneDrive - Conestoga College\COPYgcMayhem\BatSprint\bin\Debug\net6.0-windows\runtimes\win7-arm\native\libuv.dll
+C:\Users\Rdooley8581\OneDrive - Conestoga College\COPYgcMayhem\BatSprint\bin\Debug\net6.0-windows\runtimes\win7-x64\native\libuv.dll
+C:\Users\Rdooley8581\OneDrive - Conestoga College\COPYgcMayhem\BatSprint\bin\Debug\net6.0-windows\runtimes\win7-x86\native\libuv.dll
+C:\Users\Rdooley8581\OneDrive - Conestoga College\COPYgcMayhem\BatSprint\obj\Debug\net6.0-windows\BatSprint.csproj.AssemblyReference.cache
+C:\Users\Rdooley8581\OneDrive - Conestoga College\COPYgcMayhem\BatSprint\obj\Debug\net6.0-windows\BatSprint.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rdooley8581\OneDrive - Conestoga College\COPYgcMayhem\BatSprint\obj\Debug\net6.0-windows\BatSprint.AssemblyInfoInputs.cache
+C:\Users\Rdooley8581\OneDrive - Conestoga College\COPYgcMayhem\BatSprint\obj\Debug\net6.0-windows\BatSprint.AssemblyInfo.cs
+C:\Users\Rdooley8581\OneDrive - Conestoga College\COPYgcMayhem\BatSprint\obj\Debug\net6.0-windows\BatSprint.csproj.CoreCompileInputs.cache
+C:\Users\Rdooley8581\OneDrive - Conestoga College\COPYgcMayhem\BatSprint\obj\Debug\net6.0-windows\BatSprint.csproj.CopyComplete
+C:\Users\Rdooley8581\OneDrive - Conestoga College\COPYgcMayhem\BatSprint\obj\Debug\net6.0-windows\BatSprint.dll
+C:\Users\Rdooley8581\OneDrive - Conestoga College\COPYgcMayhem\BatSprint\obj\Debug\net6.0-windows\refint\BatSprint.dll
+C:\Users\Rdooley8581\OneDrive - Conestoga College\COPYgcMayhem\BatSprint\obj\Debug\net6.0-windows\BatSprint.pdb
+C:\Users\Rdooley8581\OneDrive - Conestoga College\COPYgcMayhem\BatSprint\obj\Debug\net6.0-windows\BatSprint.genruntimeconfig.cache
+C:\Users\Rdooley8581\OneDrive - Conestoga College\COPYgcMayhem\BatSprint\obj\Debug\net6.0-windows\ref\BatSprint.dll
+C:\Users\Rdooley8581\OneDrive - Conestoga College\COPYgcMayhem\BatSprint\bin\Debug\net6.0-windows\Content\images\fiveBox.xnb
+C:\Users\Rdooley8581\OneDrive - Conestoga College\COPYgcMayhem\BatSprint\bin\Debug\net6.0-windows\Content\images\tripBox.xnb
+C:\Users\Rdooley8581\OneDrive - Conestoga College\gcMayhem\BatSprint\bin\Debug\net6.0-windows\Content\images\fiveBox.xnb
+C:\Users\Rdooley8581\OneDrive - Conestoga College\gcMayhem\BatSprint\bin\Debug\net6.0-windows\Content\images\tripBox.xnb
+C:\Users\Rdooley8581\OneDrive - Conestoga College\gcMayhem\BatSprint\bin\Debug\net6.0-windows\Content\images\gothamHalf.xnb
+C:\Users\Rdooley8581\OneDrive - Conestoga College\gcMayhem\gcMayhem\BatSprint\bin\Debug\net6.0-windows\Content\audio\hitSound.wma
+C:\Users\Rdooley8581\OneDrive - Conestoga College\gcMayhem\gcMayhem\BatSprint\bin\Debug\net6.0-windows\Content\images\batman.xnb
+C:\Users\Rdooley8581\OneDrive - Conestoga College\gcMayhem\gcMayhem\BatSprint\bin\Debug\net6.0-windows\Content\images\batRunSprite1.xnb
+C:\Users\Rdooley8581\OneDrive - Conestoga College\gcMayhem\gcMayhem\BatSprint\bin\Debug\net6.0-windows\Content\images\coin.xnb
+C:\Users\Rdooley8581\OneDrive - Conestoga College\gcMayhem\gcMayhem\BatSprint\bin\Debug\net6.0-windows\Content\images\enemySprite.xnb
+C:\Users\Rdooley8581\OneDrive - Conestoga College\gcMayhem\gcMayhem\BatSprint\bin\Debug\net6.0-windows\Content\images\enemySprite2.xnb
+C:\Users\Rdooley8581\OneDrive - Conestoga College\gcMayhem\gcMayhem\BatSprint\bin\Debug\net6.0-windows\Content\audio\gameSong.wma
+C:\Users\Rdooley8581\OneDrive - Conestoga College\gcMayhem\gcMayhem\BatSprint\bin\Debug\net6.0-windows\Content\audio\gameSong.xnb
+C:\Users\Rdooley8581\OneDrive - Conestoga College\gcMayhem\gcMayhem\BatSprint\bin\Debug\net6.0-windows\Content\audio\hitSound.xnb
+C:\Users\Rdooley8581\OneDrive - Conestoga College\gcMayhem\gcMayhem\BatSprint\bin\Debug\net6.0-windows\Content\audio\themeSong.wma
+C:\Users\Rdooley8581\OneDrive - Conestoga College\gcMayhem\gcMayhem\BatSprint\bin\Debug\net6.0-windows\Content\audio\themeSong.xnb
+C:\Users\Rdooley8581\OneDrive - Conestoga College\gcMayhem\gcMayhem\BatSprint\bin\Debug\net6.0-windows\Content\fonts\HighlightFont.xnb
+C:\Users\Rdooley8581\OneDrive - Conestoga College\gcMayhem\gcMayhem\BatSprint\bin\Debug\net6.0-windows\Content\fonts\RegularFont.xnb
+C:\Users\Rdooley8581\OneDrive - Conestoga College\gcMayhem\gcMayhem\BatSprint\bin\Debug\net6.0-windows\Content\images\batarangSprite.xnb
+C:\Users\Rdooley8581\OneDrive - Conestoga College\gcMayhem\gcMayhem\BatSprint\bin\Debug\net6.0-windows\Content\images\batSprite.xnb
+C:\Users\Rdooley8581\OneDrive - Conestoga College\gcMayhem\gcMayhem\BatSprint\bin\Debug\net6.0-windows\Content\images\box.xnb
+C:\Users\Rdooley8581\OneDrive - Conestoga College\gcMayhem\gcMayhem\BatSprint\bin\Debug\net6.0-windows\Content\images\bulletSprite.xnb
+C:\Users\Rdooley8581\OneDrive - Conestoga College\gcMayhem\gcMayhem\BatSprint\bin\Debug\net6.0-windows\Content\images\fiveBox.xnb
+C:\Users\Rdooley8581\OneDrive - Conestoga College\gcMayhem\gcMayhem\BatSprint\bin\Debug\net6.0-windows\Content\images\gothamCity.xnb
+C:\Users\Rdooley8581\OneDrive - Conestoga College\gcMayhem\gcMayhem\BatSprint\bin\Debug\net6.0-windows\Content\images\gothamHalf.xnb
+C:\Users\Rdooley8581\OneDrive - Conestoga College\gcMayhem\gcMayhem\BatSprint\bin\Debug\net6.0-windows\Content\images\helpScene2.xnb
+C:\Users\Rdooley8581\OneDrive - Conestoga College\gcMayhem\gcMayhem\BatSprint\bin\Debug\net6.0-windows\Content\images\rooftop.xnb
+C:\Users\Rdooley8581\OneDrive - Conestoga College\gcMayhem\gcMayhem\BatSprint\bin\Debug\net6.0-windows\Content\images\stalkSprite.xnb
+C:\Users\Rdooley8581\OneDrive - Conestoga College\gcMayhem\gcMayhem\BatSprint\bin\Debug\net6.0-windows\Content\images\thugSprite.xnb
+C:\Users\Rdooley8581\OneDrive - Conestoga College\gcMayhem\gcMayhem\BatSprint\bin\Debug\net6.0-windows\Content\images\tripBox.xnb
+C:\Users\Rdooley8581\OneDrive - Conestoga College\gcMayhem\gcMayhem\BatSprint\bin\Debug\net6.0-windows\BatSprint.exe
+C:\Users\Rdooley8581\OneDrive - Conestoga College\gcMayhem\gcMayhem\BatSprint\bin\Debug\net6.0-windows\BatSprint.deps.json
+C:\Users\Rdooley8581\OneDrive - Conestoga College\gcMayhem\gcMayhem\BatSprint\bin\Debug\net6.0-windows\BatSprint.runtimeconfig.json
+C:\Users\Rdooley8581\OneDrive - Conestoga College\gcMayhem\gcMayhem\BatSprint\bin\Debug\net6.0-windows\BatSprint.dll
+C:\Users\Rdooley8581\OneDrive - Conestoga College\gcMayhem\gcMayhem\BatSprint\bin\Debug\net6.0-windows\BatSprint.pdb
+C:\Users\Rdooley8581\OneDrive - Conestoga College\gcMayhem\gcMayhem\BatSprint\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.dll
+C:\Users\Rdooley8581\OneDrive - Conestoga College\gcMayhem\gcMayhem\BatSprint\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Rdooley8581\OneDrive - Conestoga College\gcMayhem\gcMayhem\BatSprint\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Rdooley8581\OneDrive - Conestoga College\gcMayhem\gcMayhem\BatSprint\bin\Debug\net6.0-windows\MonoGame.Framework.dll
+C:\Users\Rdooley8581\OneDrive - Conestoga College\gcMayhem\gcMayhem\BatSprint\bin\Debug\net6.0-windows\SharpDX.dll
+C:\Users\Rdooley8581\OneDrive - Conestoga College\gcMayhem\gcMayhem\BatSprint\bin\Debug\net6.0-windows\SharpDX.Direct2D1.dll
+C:\Users\Rdooley8581\OneDrive - Conestoga College\gcMayhem\gcMayhem\BatSprint\bin\Debug\net6.0-windows\SharpDX.Direct3D11.dll
+C:\Users\Rdooley8581\OneDrive - Conestoga College\gcMayhem\gcMayhem\BatSprint\bin\Debug\net6.0-windows\SharpDX.Direct3D9.dll
+C:\Users\Rdooley8581\OneDrive - Conestoga College\gcMayhem\gcMayhem\BatSprint\bin\Debug\net6.0-windows\SharpDX.DXGI.dll
+C:\Users\Rdooley8581\OneDrive - Conestoga College\gcMayhem\gcMayhem\BatSprint\bin\Debug\net6.0-windows\SharpDX.Mathematics.dll
+C:\Users\Rdooley8581\OneDrive - Conestoga College\gcMayhem\gcMayhem\BatSprint\bin\Debug\net6.0-windows\SharpDX.MediaFoundation.dll
+C:\Users\Rdooley8581\OneDrive - Conestoga College\gcMayhem\gcMayhem\BatSprint\bin\Debug\net6.0-windows\SharpDX.XAudio2.dll
+C:\Users\Rdooley8581\OneDrive - Conestoga College\gcMayhem\gcMayhem\BatSprint\bin\Debug\net6.0-windows\SharpDX.XInput.dll
+C:\Users\Rdooley8581\OneDrive - Conestoga College\gcMayhem\gcMayhem\BatSprint\bin\Debug\net6.0-windows\runtimes\debian-x64\native\libuv.so
+C:\Users\Rdooley8581\OneDrive - Conestoga College\gcMayhem\gcMayhem\BatSprint\bin\Debug\net6.0-windows\runtimes\fedora-x64\native\libuv.so
+C:\Users\Rdooley8581\OneDrive - Conestoga College\gcMayhem\gcMayhem\BatSprint\bin\Debug\net6.0-windows\runtimes\opensuse-x64\native\libuv.so
+C:\Users\Rdooley8581\OneDrive - Conestoga College\gcMayhem\gcMayhem\BatSprint\bin\Debug\net6.0-windows\runtimes\osx\native\libuv.dylib
+C:\Users\Rdooley8581\OneDrive - Conestoga College\gcMayhem\gcMayhem\BatSprint\bin\Debug\net6.0-windows\runtimes\rhel-x64\native\libuv.so
+C:\Users\Rdooley8581\OneDrive - Conestoga College\gcMayhem\gcMayhem\BatSprint\bin\Debug\net6.0-windows\runtimes\win7-arm\native\libuv.dll
+C:\Users\Rdooley8581\OneDrive - Conestoga College\gcMayhem\gcMayhem\BatSprint\bin\Debug\net6.0-windows\runtimes\win7-x64\native\libuv.dll
+C:\Users\Rdooley8581\OneDrive - Conestoga College\gcMayhem\gcMayhem\BatSprint\bin\Debug\net6.0-windows\runtimes\win7-x86\native\libuv.dll
+C:\Users\Rdooley8581\OneDrive - Conestoga College\gcMayhem\gcMayhem\BatSprint\obj\Debug\net6.0-windows\BatSprint.csproj.AssemblyReference.cache
+C:\Users\Rdooley8581\OneDrive - Conestoga College\gcMayhem\gcMayhem\BatSprint\obj\Debug\net6.0-windows\BatSprint.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rdooley8581\OneDrive - Conestoga College\gcMayhem\gcMayhem\BatSprint\obj\Debug\net6.0-windows\BatSprint.AssemblyInfoInputs.cache
+C:\Users\Rdooley8581\OneDrive - Conestoga College\gcMayhem\gcMayhem\BatSprint\obj\Debug\net6.0-windows\BatSprint.AssemblyInfo.cs
+C:\Users\Rdooley8581\OneDrive - Conestoga College\gcMayhem\gcMayhem\BatSprint\obj\Debug\net6.0-windows\BatSprint.csproj.CoreCompileInputs.cache
+C:\Users\Rdooley8581\OneDrive - Conestoga College\gcMayhem\gcMayhem\BatSprint\obj\Debug\net6.0-windows\BatSprint.csproj.CopyComplete
+C:\Users\Rdooley8581\OneDrive - Conestoga College\gcMayhem\gcMayhem\BatSprint\obj\Debug\net6.0-windows\BatSprint.dll
+C:\Users\Rdooley8581\OneDrive - Conestoga College\gcMayhem\gcMayhem\BatSprint\obj\Debug\net6.0-windows\refint\BatSprint.dll
+C:\Users\Rdooley8581\OneDrive - Conestoga College\gcMayhem\gcMayhem\BatSprint\obj\Debug\net6.0-windows\BatSprint.pdb
+C:\Users\Rdooley8581\OneDrive - Conestoga College\gcMayhem\gcMayhem\BatSprint\obj\Debug\net6.0-windows\BatSprint.genruntimeconfig.cache
+C:\Users\Rdooley8581\OneDrive - Conestoga College\gcMayhem\gcMayhem\BatSprint\obj\Debug\net6.0-windows\ref\BatSprint.dll
+C:\Users\Rdooley8581\OneDrive - Conestoga College\gcMayhem\gcMayhem - Copy\BatSprint\bin\Debug\net6.0-windows\Content\audio\hitSound.wma
+C:\Users\Rdooley8581\OneDrive - Conestoga College\gcMayhem\gcMayhem - Copy\BatSprint\bin\Debug\net6.0-windows\Content\images\batman.xnb
+C:\Users\Rdooley8581\OneDrive - Conestoga College\gcMayhem\gcMayhem - Copy\BatSprint\bin\Debug\net6.0-windows\Content\images\batRunSprite1.xnb
+C:\Users\Rdooley8581\OneDrive - Conestoga College\gcMayhem\gcMayhem - Copy\BatSprint\bin\Debug\net6.0-windows\Content\images\coin.xnb
+C:\Users\Rdooley8581\OneDrive - Conestoga College\gcMayhem\gcMayhem - Copy\BatSprint\bin\Debug\net6.0-windows\Content\images\enemySprite.xnb
+C:\Users\Rdooley8581\OneDrive - Conestoga College\gcMayhem\gcMayhem - Copy\BatSprint\bin\Debug\net6.0-windows\Content\images\enemySprite2.xnb
+C:\Users\Rdooley8581\OneDrive - Conestoga College\gcMayhem\gcMayhem - Copy\BatSprint\bin\Debug\net6.0-windows\Content\audio\gameSong.wma
+C:\Users\Rdooley8581\OneDrive - Conestoga College\gcMayhem\gcMayhem - Copy\BatSprint\bin\Debug\net6.0-windows\Content\audio\gameSong.xnb
+C:\Users\Rdooley8581\OneDrive - Conestoga College\gcMayhem\gcMayhem - Copy\BatSprint\bin\Debug\net6.0-windows\Content\audio\hitSound.xnb
+C:\Users\Rdooley8581\OneDrive - Conestoga College\gcMayhem\gcMayhem - Copy\BatSprint\bin\Debug\net6.0-windows\Content\audio\themeSong.wma
+C:\Users\Rdooley8581\OneDrive - Conestoga College\gcMayhem\gcMayhem - Copy\BatSprint\bin\Debug\net6.0-windows\Content\audio\themeSong.xnb
+C:\Users\Rdooley8581\OneDrive - Conestoga College\gcMayhem\gcMayhem - Copy\BatSprint\bin\Debug\net6.0-windows\Content\fonts\HighlightFont.xnb
+C:\Users\Rdooley8581\OneDrive - Conestoga College\gcMayhem\gcMayhem - Copy\BatSprint\bin\Debug\net6.0-windows\Content\fonts\RegularFont.xnb
+C:\Users\Rdooley8581\OneDrive - Conestoga College\gcMayhem\gcMayhem - Copy\BatSprint\bin\Debug\net6.0-windows\Content\images\batarangSprite.xnb
+C:\Users\Rdooley8581\OneDrive - Conestoga College\gcMayhem\gcMayhem - Copy\BatSprint\bin\Debug\net6.0-windows\Content\images\batSprite.xnb
+C:\Users\Rdooley8581\OneDrive - Conestoga College\gcMayhem\gcMayhem - Copy\BatSprint\bin\Debug\net6.0-windows\Content\images\box.xnb
+C:\Users\Rdooley8581\OneDrive - Conestoga College\gcMayhem\gcMayhem - Copy\BatSprint\bin\Debug\net6.0-windows\Content\images\bulletSprite.xnb
+C:\Users\Rdooley8581\OneDrive - Conestoga College\gcMayhem\gcMayhem - Copy\BatSprint\bin\Debug\net6.0-windows\Content\images\fiveBox.xnb
+C:\Users\Rdooley8581\OneDrive - Conestoga College\gcMayhem\gcMayhem - Copy\BatSprint\bin\Debug\net6.0-windows\Content\images\gothamCity.xnb
+C:\Users\Rdooley8581\OneDrive - Conestoga College\gcMayhem\gcMayhem - Copy\BatSprint\bin\Debug\net6.0-windows\Content\images\gothamHalf.xnb
+C:\Users\Rdooley8581\OneDrive - Conestoga College\gcMayhem\gcMayhem - Copy\BatSprint\bin\Debug\net6.0-windows\Content\images\helpScene2.xnb
+C:\Users\Rdooley8581\OneDrive - Conestoga College\gcMayhem\gcMayhem - Copy\BatSprint\bin\Debug\net6.0-windows\Content\images\rooftop.xnb
+C:\Users\Rdooley8581\OneDrive - Conestoga College\gcMayhem\gcMayhem - Copy\BatSprint\bin\Debug\net6.0-windows\Content\images\stalkSprite.xnb
+C:\Users\Rdooley8581\OneDrive - Conestoga College\gcMayhem\gcMayhem - Copy\BatSprint\bin\Debug\net6.0-windows\Content\images\thugSprite.xnb
+C:\Users\Rdooley8581\OneDrive - Conestoga College\gcMayhem\gcMayhem - Copy\BatSprint\bin\Debug\net6.0-windows\Content\images\tripBox.xnb
+C:\Users\Rdooley8581\OneDrive - Conestoga College\gcMayhem\gcMayhem - Copy\BatSprint\bin\Debug\net6.0-windows\BatSprint.exe
+C:\Users\Rdooley8581\OneDrive - Conestoga College\gcMayhem\gcMayhem - Copy\BatSprint\bin\Debug\net6.0-windows\BatSprint.deps.json
+C:\Users\Rdooley8581\OneDrive - Conestoga College\gcMayhem\gcMayhem - Copy\BatSprint\bin\Debug\net6.0-windows\BatSprint.runtimeconfig.json
+C:\Users\Rdooley8581\OneDrive - Conestoga College\gcMayhem\gcMayhem - Copy\BatSprint\bin\Debug\net6.0-windows\BatSprint.dll
+C:\Users\Rdooley8581\OneDrive - Conestoga College\gcMayhem\gcMayhem - Copy\BatSprint\bin\Debug\net6.0-windows\BatSprint.pdb
+C:\Users\Rdooley8581\OneDrive - Conestoga College\gcMayhem\gcMayhem - Copy\BatSprint\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.dll
+C:\Users\Rdooley8581\OneDrive - Conestoga College\gcMayhem\gcMayhem - Copy\BatSprint\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Rdooley8581\OneDrive - Conestoga College\gcMayhem\gcMayhem - Copy\BatSprint\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Rdooley8581\OneDrive - Conestoga College\gcMayhem\gcMayhem - Copy\BatSprint\bin\Debug\net6.0-windows\MonoGame.Framework.dll
+C:\Users\Rdooley8581\OneDrive - Conestoga College\gcMayhem\gcMayhem - Copy\BatSprint\bin\Debug\net6.0-windows\SharpDX.dll
+C:\Users\Rdooley8581\OneDrive - Conestoga College\gcMayhem\gcMayhem - Copy\BatSprint\bin\Debug\net6.0-windows\SharpDX.Direct2D1.dll
+C:\Users\Rdooley8581\OneDrive - Conestoga College\gcMayhem\gcMayhem - Copy\BatSprint\bin\Debug\net6.0-windows\SharpDX.Direct3D11.dll
+C:\Users\Rdooley8581\OneDrive - Conestoga College\gcMayhem\gcMayhem - Copy\BatSprint\bin\Debug\net6.0-windows\SharpDX.Direct3D9.dll
+C:\Users\Rdooley8581\OneDrive - Conestoga College\gcMayhem\gcMayhem - Copy\BatSprint\bin\Debug\net6.0-windows\SharpDX.DXGI.dll
+C:\Users\Rdooley8581\OneDrive - Conestoga College\gcMayhem\gcMayhem - Copy\BatSprint\bin\Debug\net6.0-windows\SharpDX.Mathematics.dll
+C:\Users\Rdooley8581\OneDrive - Conestoga College\gcMayhem\gcMayhem - Copy\BatSprint\bin\Debug\net6.0-windows\SharpDX.MediaFoundation.dll
+C:\Users\Rdooley8581\OneDrive - Conestoga College\gcMayhem\gcMayhem - Copy\BatSprint\bin\Debug\net6.0-windows\SharpDX.XAudio2.dll
+C:\Users\Rdooley8581\OneDrive - Conestoga College\gcMayhem\gcMayhem - Copy\BatSprint\bin\Debug\net6.0-windows\SharpDX.XInput.dll
+C:\Users\Rdooley8581\OneDrive - Conestoga College\gcMayhem\gcMayhem - Copy\BatSprint\bin\Debug\net6.0-windows\runtimes\debian-x64\native\libuv.so
+C:\Users\Rdooley8581\OneDrive - Conestoga College\gcMayhem\gcMayhem - Copy\BatSprint\bin\Debug\net6.0-windows\runtimes\fedora-x64\native\libuv.so
+C:\Users\Rdooley8581\OneDrive - Conestoga College\gcMayhem\gcMayhem - Copy\BatSprint\bin\Debug\net6.0-windows\runtimes\opensuse-x64\native\libuv.so
+C:\Users\Rdooley8581\OneDrive - Conestoga College\gcMayhem\gcMayhem - Copy\BatSprint\bin\Debug\net6.0-windows\runtimes\osx\native\libuv.dylib
+C:\Users\Rdooley8581\OneDrive - Conestoga College\gcMayhem\gcMayhem - Copy\BatSprint\bin\Debug\net6.0-windows\runtimes\rhel-x64\native\libuv.so
+C:\Users\Rdooley8581\OneDrive - Conestoga College\gcMayhem\gcMayhem - Copy\BatSprint\bin\Debug\net6.0-windows\runtimes\win7-arm\native\libuv.dll
+C:\Users\Rdooley8581\OneDrive - Conestoga College\gcMayhem\gcMayhem - Copy\BatSprint\bin\Debug\net6.0-windows\runtimes\win7-x64\native\libuv.dll
+C:\Users\Rdooley8581\OneDrive - Conestoga College\gcMayhem\gcMayhem - Copy\BatSprint\bin\Debug\net6.0-windows\runtimes\win7-x86\native\libuv.dll
+C:\Users\Rdooley8581\OneDrive - Conestoga College\gcMayhem\gcMayhem - Copy\BatSprint\obj\Debug\net6.0-windows\BatSprint.csproj.AssemblyReference.cache
+C:\Users\Rdooley8581\OneDrive - Conestoga College\gcMayhem\gcMayhem - Copy\BatSprint\obj\Debug\net6.0-windows\BatSprint.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rdooley8581\OneDrive - Conestoga College\gcMayhem\gcMayhem - Copy\BatSprint\obj\Debug\net6.0-windows\BatSprint.AssemblyInfoInputs.cache
+C:\Users\Rdooley8581\OneDrive - Conestoga College\gcMayhem\gcMayhem - Copy\BatSprint\obj\Debug\net6.0-windows\BatSprint.AssemblyInfo.cs
+C:\Users\Rdooley8581\OneDrive - Conestoga College\gcMayhem\gcMayhem - Copy\BatSprint\obj\Debug\net6.0-windows\BatSprint.csproj.CoreCompileInputs.cache
+C:\Users\Rdooley8581\OneDrive - Conestoga College\gcMayhem\gcMayhem - Copy\BatSprint\obj\Debug\net6.0-windows\BatSprint.csproj.CopyComplete
+C:\Users\Rdooley8581\OneDrive - Conestoga College\gcMayhem\gcMayhem - Copy\BatSprint\obj\Debug\net6.0-windows\BatSprint.dll
+C:\Users\Rdooley8581\OneDrive - Conestoga College\gcMayhem\gcMayhem - Copy\BatSprint\obj\Debug\net6.0-windows\refint\BatSprint.dll
+C:\Users\Rdooley8581\OneDrive - Conestoga College\gcMayhem\gcMayhem - Copy\BatSprint\obj\Debug\net6.0-windows\BatSprint.pdb
+C:\Users\Rdooley8581\OneDrive - Conestoga College\gcMayhem\gcMayhem - Copy\BatSprint\obj\Debug\net6.0-windows\BatSprint.genruntimeconfig.cache
+C:\Users\Rdooley8581\OneDrive - Conestoga College\gcMayhem\gcMayhem - Copy\BatSprint\obj\Debug\net6.0-windows\ref\BatSprint.dll
+C:\Users\Rdooley8581\OneDrive - Conestoga College\gcMayhem\gcMayhem - Copy\BatSprint\bin\Debug\net6.0-windows\Content\images\heartTex.xnb
+C:\Users\Rdooley8581\OneDrive - Conestoga College\gcMayhem\gcMayhem - Copy\BatSprint\bin\Debug\net6.0-windows\Content\images\bruteSprite.xnb
+C:\Users\Rdooley8581\OneDrive - Conestoga College\gcMayhem\gcMayhem - Copy\BatSprint\bin\Debug\net6.0-windows\Content\images\helpScene.xnb
+C:\Users\Rdooley8581\OneDrive - Conestoga College\gcMayhem\gcMayhem\BatSprint\bin\Debug\net6.0-windows\Content\images\bruteSprite.xnb
+C:\Users\Rdooley8581\OneDrive - Conestoga College\gcMayhem\gcMayhem\BatSprint\bin\Debug\net6.0-windows\Content\images\heartTex.xnb
+C:\Users\Rdooley8581\OneDrive - Conestoga College\gcMayhem\gcMayhem\BatSprint\bin\Debug\net6.0-windows\Content\images\helpScene.xnb
