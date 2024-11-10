@@ -1,4 +1,4 @@
-#GC Mayhem Monogame
+# GC Mayhem Monogame
 
 Top down 2D desktop game developed using C# and MonoGame.
 
